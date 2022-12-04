@@ -19,3 +19,7 @@
 **NOTE**: If you do not push your changes to your repository, you will not get the 10%
 
 **PROBLEMS?**: Please write below this line if you are encountering any problems. If you detail your problems here, you will get the 10%. Just be sure to push your changes to your forked repository.
+
+Couldnt figure out how to do the multiple cats
+on
+2nd attempt, now it works but for some reason I get two cats of the same when I click
